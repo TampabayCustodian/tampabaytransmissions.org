@@ -162,6 +162,7 @@ aside {
 
 .sidebar-section:not(:last-child) {
   margin-bottom: 3em;
+  word-wrap: break-word;
 }
 
 .sidebar-section ul,
@@ -401,10 +402,6 @@ main hr {
   margin: 1.5em 0;
 }
 
-.limit{
-    width:50px;
-    word-wrap: break-word;
-}
 
 /* HEADINGS: */
 
