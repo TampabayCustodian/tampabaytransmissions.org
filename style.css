@@ -401,6 +401,11 @@ main hr {
   margin: 1.5em 0;
 }
 
+.limit{
+    width:50px;
+    word-wrap: break-word;
+}
+
 /* HEADINGS: */
 
 main h1,
