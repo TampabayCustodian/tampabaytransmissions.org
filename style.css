@@ -20,9 +20,9 @@
   --link-color-hover: #f5a9b8;
 
   /* Text: */
-  --font: 'Alegreya Sans SC', sans-serif;
+  --font: Merriweather;
   --heading-font: Monaco, monospace;
-  --font-size: 16px;
+  --font-size: 18px;
 
   /* Other Settings: */
   --margin: 10px;
